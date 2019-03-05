@@ -1,0 +1,23 @@
+.sobreNos{
+	margin-top: 100px;
+	margin-bottom: 20px;
+	
+}
+.sobreNos__imgCards{
+	width: 100%;
+	height: 300px;
+}
+.sobreNos__tituloCards{
+	text-align: center;
+}
+.sobreNos__imgContainer{
+	width: 100%;
+	height: 400px;
+
+}
+.sobreNos__container{
+	background-color: #cc0000;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
